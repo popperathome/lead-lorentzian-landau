@@ -1,6 +1,6 @@
 # The second Symanzik polynomial is K-Lorentzian, and losing that predicts Landau pinches
 
-**Status:** ⏳ QUEUED
+**Status:** 🟢 SURVIVING
 
 ## Claim
 
@@ -44,4 +44,4 @@ Symbolic/numeric sweep on small graphs (sympy + numpy in a container; a day):
 
 ## Log
 
-See ADDENDUMS.md (no compute spent yet).
+See ADDENDUMS.md.
